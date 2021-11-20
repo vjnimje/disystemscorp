@@ -19,27 +19,35 @@
     <div class="row">
       <div class="col-lg-9 mx-auto py-3">
         <div class="row">
-          <div class="col-md-4 position-relative">
+          <div class="col-md-3 position-relative">
             <div class="p-3 text-center">
               <h1 class="text-gradient text-primary"><span id="state1" countTo="70">0</span>+</h1>
-              <h5 class="mt-3">Coded Elements</h5>
-              <p class="text-sm font-weight-normal">From buttons, to inputs, navbars, alerts or cards, you are covered</p>
+              <h5 class="mt-3">Satisfied Clients</h5>
+              <p class="text-sm font-weight-normal"></p>
             </div>
             <hr class="vertical dark">
           </div>
-          <div class="col-md-4 position-relative">
+          <div class="col-md-3 position-relative">
             <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary"> <span id="state2" countTo="15">0</span>+</h1>
-              <h5 class="mt-3">Design Blocks</h5>
-              <p class="text-sm font-weight-normal">Mix the sections, change the colors and unleash your creativity</p>
+              <h1 class="text-gradient text-primary"> <span id="state2" countTo="1500">0</span>+</h1>
+              <h5 class="mt-3">Resource Placed</h5>
+              <p class="text-sm font-weight-normal"></p>
             </div>
             <hr class="vertical dark">
           </div>
-          <div class="col-md-4">
+          <div class="col-md-3 position-relative">
             <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary" id="state3" countTo="4">0</h1>
-              <h5 class="mt-3">Pages</h5>
-              <p class="text-sm font-weight-normal">Save 3-4 weeks of work when you use our pre-made pages for your website</p>
+              <h1 class="text-gradient text-primary"> <span id="state4" countTo="750">0</span>+</h1>
+              <h5 class="mt-3">Consulting</h5>
+              <p class="text-sm font-weight-normal"></p>
+            </div>
+            <hr class="vertical dark">
+          </div>
+          <div class="col-md-3">
+            <div class="p-3 text-center">
+              <h1 class="text-gradient text-primary" id="state3" countTo="400">0</h1>
+              <h5 class="mt-3">Project Planings</h5>
+              <p class="text-sm font-weight-normal"></p>
             </div>
           </div>
         </div>

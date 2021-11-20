@@ -271,6 +271,14 @@
       console.error(countUp2.error);
     };
   }
+  if (document.getElementById('state4')) {
+    const countUp2 = new CountUp('state4', document.getElementById("state4").getAttribute("countTo"));
+    if (!countUp2.error) {
+      countUp2.start();
+    } else {
+      console.error(countUp2.error);
+    };
+  }
 </script>
 
 
