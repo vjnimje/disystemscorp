@@ -90,6 +90,24 @@
     </div>
   </div>
 </section>
+<section class="my-5 py-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
+        <div class="front front-background" style="background-image: url(assets/img/49361861376_30633aaa37_b.jpg); background-size: cover;">
+          <div class="card-body py-7 text-center">
+                <i class="material-icons text-white text-4xl my-3">touch_app</i>
+                <h3 class="text-white">IT <br> Consulting</h3>
+                <p class="text-white opacity-8">Our service is exceptional because our team is best. We are specialists who are industry savy, well-connected and committed.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 ms-auto">
+        test 1
+      </div>
+    </div>
+  </div>
+</section>
 
 
 
