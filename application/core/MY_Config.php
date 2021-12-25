@@ -21,7 +21,7 @@ class MY_Config extends CI_Config {
 
             else
             {
-                $base_url = 'http://localhost:75/';
+                $base_url = 'http://localhost:71/';
             }
 
             $this->set_item('base_url', $base_url);
