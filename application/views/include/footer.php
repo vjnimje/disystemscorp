@@ -77,9 +77,8 @@
       <div class="col-md-3 mb-4 ms-auto">
         <div>
           <a href="#">
-            <img src="<?php echo base_url(); ?>assets/img/logo-ct-dark.png" class="mb-3 footer-logo" alt="main_logo">
+            <img src="<?php echo base_url(); ?>assets/img/logos/logo.png" class="mb-3" alt="main_logo">
           </a>
-          <h6 class="font-weight-bolder mb-4">DISC</h6>
         </div>
         <div>
           <ul class="d-flex flex-row ms-n3 nav">
