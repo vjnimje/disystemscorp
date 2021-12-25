@@ -130,50 +130,24 @@
 
             <li class="nav-item">
               <a class="nav-link" href="#" target="_blank">
-                Freebies
+                Services
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="#" target="_blank">
-                Premium Tools
+                Products
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="#" target="_blank">
-                Blog
+                Careers
               </a>
             </li>
           </ul>
         </div>
       </div>
-
-      <div class="col-md-2 col-sm-6 col-6 mb-4">
-        <div>
-          <h6 class="text-sm">Resources</h6>
-          <ul class="flex-column ms-n3 nav">
-            <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
-                Illustrations
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
-                Bits & Snippets
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
-                Affiliate Program
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
       <div class="col-md-2 col-sm-6 col-6 mb-4">
         <div>
           <h6 class="text-sm">Help & Support</h6>
@@ -206,7 +180,7 @@
         </div>
       </div>
 
-      <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto">
+<!--       <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto">
         <div>
           <h6 class="text-sm">Legal</h6>
           <ul class="flex-column ms-n3 nav">
@@ -225,6 +199,30 @@
             <li class="nav-item">
               <a class="nav-link" href="#" target="_blank">
                 Licenses (EULA)
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div> -->
+      <div class="col-md-4 col-sm-6 col-6 mb-4">
+        <div>
+          <h6 class="text-sm">Get In Touch</h6>
+          <ul class="flex-column ms-n3 nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#" target="_blank"><i class="fas fa-location-arrow"></i>&nbsp;&nbsp;
+                4870 Sadler Road Suite 300 Glen Allen, VA 23060
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" target="_blank"><i class="fas fa-envelope"></i>&nbsp;&nbsp;
+                info@disystemscorp.com
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" target="_blank"><i class="fas fa-phone-alt"></i>&nbsp;&nbsp;
+                +1-937-553-2361
               </a>
             </li>
           </ul>
