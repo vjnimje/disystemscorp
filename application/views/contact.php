@@ -11,12 +11,13 @@
     </div>
   </div>
 </header>
+<div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6">
+
   <section>
     <div class="page-header min-vh-100">
       <div class="container">
         <div class="row">
           <div class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 start-0 text-center justify-content-center flex-column">
-            <!-- <div class="position-relative h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center" style="background-image: url('../assets/img/illustrations/illustration-signin.jpg'); background-size: cover;" loading="lazy"></div> -->
             <div class="card d-flex blur justify-content-center shadow-lg my-sm-0 my-sm-6 mt-8 mb-5">
               <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
                 <div class="bg-gradient-primary shadow-primary border-radius-lg p-3">
