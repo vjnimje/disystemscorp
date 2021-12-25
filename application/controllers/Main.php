@@ -8,4 +8,34 @@ class Main extends CI_Controller {
 		$this->load->view('home');
 		$this->load->view('include/footer');
 	}
+	public function about()
+	{
+		$this->load->view('include/header');
+		$this->load->view('about');
+		$this->load->view('include/footer');
+	}
+	public function services()
+	{
+		$this->load->view('include/header');
+		$this->load->view('services');
+		$this->load->view('include/footer');
+	}
+	public function products()
+	{
+		$this->load->view('include/header');
+		$this->load->view('products');
+		$this->load->view('include/footer');
+	}
+	public function careers()
+	{
+		$this->load->view('include/header');
+		$this->load->view('careers');
+		$this->load->view('include/footer');
+	}
+	public function contact()
+	{
+		$this->load->view('include/header');
+		$this->load->view('contact');
+		$this->load->view('include/footer');
+	}
 }

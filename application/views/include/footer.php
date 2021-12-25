@@ -1,4 +1,74 @@
-
+<section class="pt-3 pb-4" id="count-stats">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9 mx-auto py-3">
+        <div class="row">
+          <div class="col-md-3 position-relative">
+            <div class="p-3 text-center">
+              <h1 class="text-gradient text-primary"><span id="state1" countTo="500">0</span>+</h1>
+              <h5 class="mt-3">Satisfied Clients</h5>
+              <p class="text-sm font-weight-normal"></p>
+            </div>
+            <hr class="vertical dark">
+          </div>
+          <div class="col-md-3 position-relative">
+            <div class="p-3 text-center">
+              <h1 class="text-gradient text-primary"> <span id="state2" countTo="18">0</span>+</h1>
+              <h5 class="mt-3">Projects</h5>
+              <p class="text-sm font-weight-normal"></p>
+            </div>
+            <hr class="vertical dark">
+          </div>
+          <div class="col-md-3 position-relative">
+            <div class="p-3 text-center">
+              <h1 class="text-gradient text-primary"> <span id="state4" countTo="3000">0</span>+</h1>
+              <h5 class="mt-3">Hours Of Support</h5>
+              <p class="text-sm font-weight-normal"></p>
+            </div>
+            <hr class="vertical dark">
+          </div>
+          <div class="col-md-3">
+            <div class="p-3 text-center">
+              <h1 class="text-gradient text-primary"><span id="state3" countTo="50">0</span>+</h1>
+              <h5 class="mt-3">Resources</h5>
+              <p class="text-sm font-weight-normal"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="my-5 pt-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 m-auto">
+            <h4>Let’s Connect</h4>
+            <p class="mb-4">
+              Schedule your consultation TODAY !!!
+            </p>
+            <div class="row">
+              <div class="col-8">
+                <div class="input-group input-group-outline">
+                  <label class="form-label">Email Here...</label>
+                  <input type="text" class="form-control mb-sm-0">
+                </div>
+              </div>
+              <div class="col-4 ps-0">
+                <button type="button" class="btn bg-gradient-primary mb-0 h-100 position-relative z-index-2">Connect</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-5 ms-auto">
+            <div class="position-relative">
+              <img class="max-width-50 w-100 position-relative z-index-2" src="../assets/img/macbook.png" alt="image">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- -------- END PRE-FOOTER 1 w/ SUBSCRIBE BUTTON AND IMAGE ------- -->
+  </div>
   
 
   <footer class="footer pt-5 mt-5">

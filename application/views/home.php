@@ -13,50 +13,6 @@
 </header>
 
 <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-n6">
-
-<section class="pt-3 pb-4" id="count-stats">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-9 mx-auto py-3">
-        <div class="row">
-          <div class="col-md-3 position-relative">
-            <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary"><span id="state1" countTo="70">0</span>+</h1>
-              <h5 class="mt-3">Satisfied Clients</h5>
-              <p class="text-sm font-weight-normal"></p>
-            </div>
-            <hr class="vertical dark">
-          </div>
-          <div class="col-md-3 position-relative">
-            <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary"> <span id="state2" countTo="1500">0</span>+</h1>
-              <h5 class="mt-3">Resource Placed</h5>
-              <p class="text-sm font-weight-normal"></p>
-            </div>
-            <hr class="vertical dark">
-          </div>
-          <div class="col-md-3 position-relative">
-            <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary"> <span id="state4" countTo="750">0</span>+</h1>
-              <h5 class="mt-3">Consulting</h5>
-              <p class="text-sm font-weight-normal"></p>
-            </div>
-            <hr class="vertical dark">
-          </div>
-          <div class="col-md-3">
-            <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary" id="state3" countTo="400">0</h1>
-              <h5 class="mt-3">Project Planings</h5>
-              <p class="text-sm font-weight-normal"></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
 <section class="my-5 py-5">
   <div class="container">
     <div class="row align-items-center">
@@ -82,6 +38,7 @@
       </div>
       <div class="col-lg-6 ms-auto">
         <div class="row justify-content-start">
+          <h6 class="font-weight-bolder mt-3">Welcome</h6>
           <h5 class="font-weight-bolder mt-3">Digital Intelligent Systems Corporation</h5>
           <p class="pe-5" align="justify">Digital Intelligent Systems Corporation vision is to be the best technical workforce solutions provider in the industry. We will provide value-added human resource solutions to our clients and build strong customer service relationships to support their information technology and engineering/technical requirements.<br><br>
           Digital Intelligent Systems Corporation provides IT Solutions that help business make a lasting impact on our customer’s profitability, focused on building long term relationships.</p>
@@ -108,6 +65,7 @@
     </div>
   </div>
 </section>
+
 
 
 
