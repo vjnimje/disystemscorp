@@ -151,7 +151,7 @@
           <div class="description ps-3">
             <h6>Honesty & Trustworthiness</h6>
             <p class="mb-0" align="justify">We do the right thing. We listen to our customers, we communicate honestly and we deliver on our commitments.<br>
-We always rely on soundness of the rules and correctness of their implementation.</p>
+            We always rely on soundness of the rules and correctness of their implementation.</p>
           </div>
         </div>
         <div class="p-3 info-horizontal">
