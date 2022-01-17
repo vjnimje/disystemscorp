@@ -19,7 +19,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="row justify-content-start">
-              <h5>Who we are ???</h5>
+              <h5>Who we are ..</h5>
               <p align="justify">In Simple terms, Digital Intelligent Systems Corporation provides your business the required horsepower for your IT organization. We understand our clients and we study the needs of our clients to guide them and provide them with all needed support in IT. As one of the world’s largest providers of information technology services and solutions, Digital Intelligent Systems Corporation is in the business of deploying human intellectual capital to help your organization meet its information technology goals, no matter how lofty. Our expertise is derived from more than a decade of delivering world class IT staffing services to Fortune 500 and mid-market companies in the US.</p>
               <p align="justify">Digital Intelligent Systems Corporation was founded by a team of people who had several years of IT experience. After working for different clients for years the team realized that a lot of companies are struggling to fill up a gap in their IT organizations and the Core team started helping clients managing their IT projects. Based on a simple formula of demand and supply the organization grew over the years. Every Digital Intelligent Systems Corporation employee goes through rigorous interview process so that client can concentrate on growing their business and not worry about changing IT needs.</p>
 
@@ -30,7 +30,7 @@
             <div class="card">
               <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                 <a class="d-block blur-shadow-image">
-                  <img src="<?php echo base_url();?>assets/img/ab2.jpg" alt="img-colored-shadow" class="img-fluid border-radius-lg">
+                  <img src="<?php echo base_url();?>assets/img/about.png" alt="img-colored-shadow" class="img-fluid border-radius-lg">
                 </a>
               </div>
               <div class="card-body text-center">
@@ -40,7 +40,7 @@
                 <p class="mb-0">
                   Website visitors today demand a frictionless user expericence — especially when using search. Because of the hight standards.
                 </p>
-                <button type="button" class="btn bg-gradient-info btn-sm mb-0 mt-3">Find out more</button>
+                <a href="<?php echo base_url();?>contact" class="btn bg-gradient-info btn-sm mb-0 mt-3">Find out more</a>
               </div>
             </div>
           </div>

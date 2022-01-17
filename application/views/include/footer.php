@@ -123,25 +123,25 @@
           <h6 class="text-sm">Company</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
+              <a class="nav-link" href="<?php echo base_url();?>about">
                 About Us
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
+              <a class="nav-link" href="<?php echo base_url();?>services">
                 Services
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
+              <a class="nav-link" href="<?php echo base_url();?>products">
                 Products
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
+              <a class="nav-link" href="<?php echo base_url();?>careers">
                 Careers
               </a>
             </li>
@@ -153,25 +153,25 @@
           <h6 class="text-sm">Help & Support</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
+              <a class="nav-link" href="<?php echo base_url();?>contact">
                 Contact Us
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
+              <a class="nav-link" href="#">
                 Knowledge Center
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
+              <a class="nav-link" href="#">
                 Custom Development
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank">
+              <a class="nav-link" href="#">
                 Sponsorships
               </a>
             </li>
@@ -209,19 +209,19 @@
           <h6 class="text-sm">Get In Touch</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank"><i class="fas fa-location-arrow"></i>&nbsp;&nbsp;
+              <a class="nav-link" href="#"><i class="fas fa-location-arrow"></i>&nbsp;&nbsp;
                 4870 Sadler Road Suite 300 Glen Allen, VA 23060
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank"><i class="fas fa-envelope"></i>&nbsp;&nbsp;
+              <a class="nav-link" href="mailto:info@disystemscorp.com"><i class="fas fa-envelope"></i>&nbsp;&nbsp;
                 info@disystemscorp.com
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#" target="_blank"><i class="fas fa-phone-alt"></i>&nbsp;&nbsp;
+              <a class="nav-link" href="tel:+1-937-553-2361"><i class="fas fa-phone-alt"></i>&nbsp;&nbsp;
                 +1-937-553-2361
               </a>
             </li>
@@ -232,7 +232,7 @@
       <div class="col-12">
         <div class="text-center">
           <p class="text-dark my-4 text-sm font-weight-normal">
-            All rights reserved. Copyright © <script>document.write(new Date().getFullYear())</script><a href="#" target="_blank">DISC</a>.
+            All rights reserved. Copyright © <script>document.write(new Date().getFullYear())</script> <a href="<?php echo base_url();?>"> DISC</a>.
           </p>
         </div>
       </div>

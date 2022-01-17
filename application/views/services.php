@@ -24,10 +24,10 @@
             <h2 class="text-dark mb-4">AT Digital Intelligent Systems Corporation We Source</h2>
             <p align="justify">By providing a full range of critical information technology services and solutions no matter where our customers are doing business, Digital Intelligent Systems Corporation is a key technology partner for many of the world’s premier companies. Digital Intelligent Systems Corporation capabilities span a broad spectrum of value-added information technology services including:</p>
             <ul>
-              <li>Staff Augmentation</li>
-              <li>Direct Placement</li>
               <li>Project Management</li>
               <li>Consulting</li>
+              <li>Staff Augmentation</li>
+              <li>Direct Placement</li>
               <li>Training</li>
               <li>Tech Support</li>
             </ul>
