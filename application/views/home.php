@@ -82,7 +82,7 @@
           </div>
           <div class="card-footer pb-3 pt-2 z-index-3">
             <h4 class="text-white mb-1 cursor-pointer">Digital Consulting</h4>
-            <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">257 spots</p>
+            <!-- <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">257 spots</p> -->
           </div>
           <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-4"></span>
         </div>
@@ -94,7 +94,7 @@
           </div>
           <div class="card-footer pb-3 pt-2 z-index-3">
             <h4 class="text-white mb-1 cursor-pointer">Cognitive AI</h4>
-            <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">363 spots</p>
+            <!-- <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">363 spots</p> -->
           </div>
           <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-4"></span>
         </div>
@@ -108,7 +108,7 @@
           </div>
           <div class="card-footer pb-4 pt-5 z-index-3">
             <h4 class="text-white mb-1 cursor-pointer">Cloud Enablement</h4>
-            <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">117 spots</p>
+            <!-- <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">117 spots</p> -->
           </div>
           <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-4"></span>
         </div>
@@ -120,7 +120,7 @@
           </div>
           <div class="card-footer pb-4 pt-2 z-index-3">
             <h4 class="text-white mb-1 cursor-pointer">DataInsights</h4>
-            <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">215 spots</p>
+            <!-- <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">215 spots</p> -->
           </div>
           <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-4"></span>
         </div>
