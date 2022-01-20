@@ -2,7 +2,7 @@
   <div class="page-header min-vh-75 relative" style="background-image: url('./assets/img/blockchain.png')">
     <span class="mask bg-gradient-info opacity-4"></span>
     <div class="container">
-      <div class="row">
+      <div class="row" style="padding-top:100px;">
         <div class="col-lg-7 text-center mx-auto">
           <h1 class="text-white pt-3 mt-n5">About Us</h1>
           <p class="lead text-white mt-3">At Digital Intelligent Systems Corporation we believe that the most valuable resource we possess is our staff.</p>
@@ -30,7 +30,7 @@
             <div class="card">
               <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                 <a class="d-block blur-shadow-image">
-                  <img src="<?php echo base_url();?>assets/img/about.png" alt="img-colored-shadow" class="img-fluid border-radius-lg">
+                  <img src="<?php echo base_url();?>assets/img/augmented-analysis.jpg" alt="img-colored-shadow" class="img-fluid border-radius-lg">
                 </a>
               </div>
               <div class="card-body text-center">
