@@ -96,7 +96,7 @@
         </li>
         <li class="nav-item my-auto ms-3 ms-lg-0">
           
-          <a href="#" class="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">Call Now</a>
+          <a href="tel:+1-937-553-2361" class="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">Call Now</a>
           
         </li>
       </ul>

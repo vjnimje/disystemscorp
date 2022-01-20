@@ -2,7 +2,7 @@
   <div class="page-header min-vh-75 relative" style="background-image: url('./assets/img/blockchain.png')">
     <span class="mask bg-gradient-info opacity-4"></span>
     <div class="container">
-      <div class="row">
+      <div class="row" style="padding-top:100px;">
         <div class="col-lg-7 text-center mx-auto">
           <h1 class="text-white pt-3 mt-n5">Digital Intelligent Systems Corporation</h1>
           <p class="lead text-white mt-3">Modernizing the application to face Real Time and Future Challenges.</p>
@@ -68,7 +68,7 @@
             <p class="text-uppercase font-weight-bold opacity-8 text-xs mt-7"></p>
             <h4 class="text-white mb-1">Digital Transformation</h4>
             <p class="text-white opacity-8">It really matters and then like it really doesn’t matter. What matters is the people who are sparked by it.</p>
-            <button class="btn btn-white btn-sm" type="button" name="button">Read More</button>
+            <!-- <button class="btn btn-white btn-sm" type="button" name="button">Read More</button> -->
           </div>
           <span class="mask bg-gradient-primary border-radius-xl z-index-2 opacity-2"></span>
         </div>
