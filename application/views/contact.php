@@ -44,7 +44,7 @@
                 }
                 </script>
 
-                <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmnEk3hXzDb06JNUCmM6oPQIRV6tvotzU&callback=myMap"></script>
               </div>
           </div>
           <div class="col-xl-5 col-lg-6 col-md-7 d-flex flex-column ms-auto me-auto ms-lg-auto me-lg-5">
